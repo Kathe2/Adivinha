@@ -1,4 +1,4 @@
-# 🎯 Advinhe o Número
+# 🎯 Adivinhe o Número
 
 Projeto desenvolvido com **HTML, CSS e JavaScript** durante o curso de **Lógica de Programação com JavaScript** da Alura.
 
